@@ -1,6 +1,7 @@
 # NgxImageZoomTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+run with ng new ngx-image-zoom-test
 
 ## Development server
 
