@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 // Import the library
-import { NgxImageZoomModule } from 'ngx-image-zoom';
+import { NgxImageZoomModule } from 'kp-image-zoom';
 
 @NgModule({
   declarations: [
